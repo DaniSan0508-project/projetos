@@ -1,0 +1,22 @@
+form {
+  margin-top: 60px;
+}
+form div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+form label {
+  margin-top: 20px;
+  display: block;
+  text-align: center;
+}
+form input {
+  width: 90%;
+  padding: 20px;
+  display: block;
+}
+#sendButton {
+  width: 100px;
+  align-self: flex-end;
+}
